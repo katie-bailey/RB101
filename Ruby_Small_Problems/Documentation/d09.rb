@@ -1,0 +1,1 @@
+# documentation can be found under Psych::load_file because Psych uses Yaml
